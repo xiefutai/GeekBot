@@ -6,7 +6,7 @@
 
 ![](https://i.loli.net/2020/05/20/MgEONhb2WKuQ6c4.gif)
 
-### 目前支持如下插件：
+#### 目前支持如下插件：
 - 毒鸡汤文本（dujitang，每1小时推送）
 - v2ex 每日最新帖子（v2ex_latest，每天08:00推送)
 - v2ex 每日最热帖子（v2ex_hot, 每天18:00推送）
